@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Ahorsu Francis Owusu-Yeboah</h1>
+<h3 align="center">Front-End Developer | ALX Learner | Tech Enthusiast</h3>
 
-<!--
-**Qouphy233/Qouphy233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+I’m currently learning Front-End Development through the **ALX Software Engineering Program**, driven by a passion for building beautiful, functional, and user-centric web applications.
+
+🚀 I started this journey because I want become one of the best developers in Ghana.  
+💡 I'm passionate about being part of the tech world, and to explore other tech fields.  
+🌟 Inspired by the devotion of learning a new skill yearly.  
+
+---
+
+### 💻 Tech Stack
+```html
+Languages: HTML5 | CSS3 | JavaScript (ES6+)
+Frameworks: React | Tailwind CSS | Bootstrap
+Tools: Git | GitHub | VSCode | Chrome DevTools
+Currently Learning: TypeScript | Next.js
